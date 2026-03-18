@@ -227,12 +227,3 @@ npm run build     Build for production
 npm run dev       Start dev server on port 5174
 npm run build     Build for production
 ```
-
-## AI Assistance
-
-AI was used to help with code debugging, architecture
-guidance, and documentation throughout the project.
-
-All code was reviewed, understood, and manually integrated. The
-development environment setup, end-to-end testing, and final
-integration were done independently.
