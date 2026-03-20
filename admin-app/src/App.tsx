@@ -5,7 +5,7 @@ import AdminRoute from './components/AdminRoute'
 
 function App() {
   return (
-    <BrowserRouter>
+     <BrowserRouter>
       <Routes>
         <Route path="/login"   element={<Login />} />
         <Route path="/payouts" element={<AdminRoute><Payouts /></AdminRoute>} />
